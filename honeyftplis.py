@@ -20,4 +20,4 @@ def start_monitor():
         print(f"[{timestamp}] [LOG] From {addr}: {log_message.decode()}")
 
 if __name__ == "__main__":
-    start_monitor()
+    start_monitor() 
