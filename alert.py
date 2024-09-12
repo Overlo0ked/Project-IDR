@@ -13,7 +13,7 @@ TWILIO_AUTH_TOKEN = "548bd82d44199791ae64bc4ddb935da8"
 # Email settings
 EMAIL_SUBJECT = "FTP Honeypot Alert"
 EMAIL_FROM_ADDR = "demouservictim@gmail.com"
-EMAIL_TO_ADDR = "mysticragan66@gmail.com"
+EMAIL_TO_ADDR = "mysticraganork66@gmail.com"
 EMAIL_PASSWORD = "llzq mxfq ygde kden"
 
 # Alert functions
@@ -63,3 +63,4 @@ def start_alert_system():
 
 if __name__ == "__main__":
     start_alert_system()
+
